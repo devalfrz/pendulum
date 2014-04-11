@@ -8,7 +8,7 @@
 
  modified 11 Apr 2014
  by Alfredo Rius
- http://arduino.cc/en/Tutorial/Sweep
+ http://behuns.com/howblog/node/14
 */ 
 
 #include <Servo.h> 
